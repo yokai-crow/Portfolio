@@ -24,7 +24,7 @@ This portfolio is built with all the tools I’m currently in love with. It’s 
 - **Tailwind CSS** – Quick, customizable, and it makes everything look snazzy. 💅
 - **TypeScript** – It’s like JavaScript, but with superpowers. 🦸‍♂️
 - **Node.js** – Because the server is just as important as the UI, right? 🔥
-- **Next.js** – A little extra for SEO and routing goodness. 🌍
+- **Next.js** – A little extra for SEO and routing goodness. 🌍 Not really.
 - **GitHub** – For all the code and version control (and of course, because I like having my code in public).
 
 ---
@@ -46,7 +46,7 @@ Here’s the deal: You can totally reach out to me! Whether it’s to talk tech,
 
 But, before you send that message, take a moment to appreciate my **glowing image** 👇 (yes, it’s still glowing):
 
-![Contact Image](./assets/contact.png)
+![Contact Image](./src/assets/contact.png)
 
 No, it’s not an accident. I promise, I made it glow **on purpose**. 😏
 
@@ -64,7 +64,7 @@ No, it’s not an accident. I promise, I made it glow **on purpose**. 😏
 
 - I once tried to build a **Lava Lamp** with JavaScript. Let’s just say it didn’t glow quite as expected. 🌋
 - When I'm not coding, you can find me trying to understand quantum physics... or maybe just binge-watching tech tutorials on YouTube. 📺
-- My favorite color is **purple**, and **green**, and sometimes **blue**, but mostly **purple**. 🟣
+- My favorite color is **purple**, and **green**, and sometimes **blue**, but mostly **purple** maybe. 🟣
 
 ---
 
