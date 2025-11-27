@@ -63,7 +63,7 @@ No, it’s not an accident. I promise, I made it glow **on purpose**. 😏
 ## ⚡ Fun Facts (Because Why Not?)
 
 - I once tried to build a **Lava Lamp** with JavaScript. Let’s just say it didn’t glow quite as expected. 🌋
-- When I'm not coding, you can find me trying to understand quantum physics... or maybe just binge-watching tech tutorials on YouTube. 📺
+- When I'm not coding, you can find me trying to understand quantum physics... or maybe just binge-watching beat making and coding tutorials on YouTube. 📺
 - My favorite color is **purple**, and **green**, and sometimes **blue**, but mostly **purple** maybe. 🟣
 
 ---
